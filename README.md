@@ -40,7 +40,7 @@ from VIO, which are 3.3V/2.5V/1.8V matching VIO signal level.
 - Built-in EEPROM used to configure the chip of VID, PID, maximum current value, vendor and product information string, etc
 
 
-[CH348 Datasheet](https://github.com/ripper121/CH348_DevBoard/blob/main/CH348DS1.PDF "CH348 Datasheet")
+[CH348 Datasheet](https://github.com/ripper121/CH348_DevBoard/raw/main/Datasheets/CH348DS1.PDF "CH348 Datasheet")
 
 [Driver & Software](http://www.wch-ic.com/search?q=CH348&t=downloads "Driver & Software")
 
