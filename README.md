@@ -3,10 +3,6 @@
 
 [![CH348L_PCB_TOP.png](https://github.com/ripper121/CH348_DevBoard/raw/main/Images/CH348L_PCB_TOP.png "CH348L_PCB_TOP.png")](https://github.com/ripper121/CH348_DevBoard/blob/main/Images/CH348L_PCB_TOP.png "CH348L_PCB_TOP.png")
 
-[![CH348L_PCB_TOP.png](https://github.com/ripper121/CH348_DevBoard/raw/main/Image/CH348L_PCB_ISO.png "CH348L_PC_ISO.png")](https://github.com/ripper121/CH348_DevBoard/blob/main/Images/CH348L_PC_ISO.png "CH348L_PCB_ISO.png")
-
-[![CH348L_PCB_TOP.png](https://github.com/ripper121/CH348_DevBoard/raw/main/Image/CH348L_PCB_BOTTOM.png "CH348L_PCB_BOTTOM.png")](https://github.com/ripper121/CH348_DevBoard/blob/main/Images/CH348L_PCB_BOTTOM.png "CH348L_PCB_BOTTOM.png")
-
 ###Features:
 - No drivers needed for Winows and Linux
 - USB-C Connector
