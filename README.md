@@ -3,7 +3,7 @@
 
 [![CH348L_PCB_TOP.png](https://github.com/ripper121/CH348_DevBoard/raw/main/Images/CH348L_PCB_TOP.png "CH348L_PCB_TOP.png")](https://github.com/ripper121/CH348_DevBoard/blob/main/Images/CH348L_PCB_TOP.png "CH348L_PCB_TOP.png")
 
-###Features:
+### Features:
 - No drivers needed for Winows and Linux
 - USB-C Connector
 - USB ESD Protection
